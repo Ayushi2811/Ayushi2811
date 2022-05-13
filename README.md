@@ -32,4 +32,4 @@ Hi, I'm Ayushi Chauhan, a Web Developer, Machine Learning Enthusiast and Open So
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=shivaylamba&show_icons=true&hide_border=true)
+![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiChauhan&show_icons=true&hide_border=true)
