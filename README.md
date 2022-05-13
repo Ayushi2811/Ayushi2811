@@ -12,7 +12,7 @@
 
 Hi, I'm Ayushi Chauhan, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushiChauhan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/)](https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/)
-[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/)](https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/) 
+[![Twitter Badge](http://img.shields.io/badge/-@ayushi-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/)](https://www.linkedin.com/in/ayushi-chauhan-87a45a1b0/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ayushichauhan913@gmail.com)](mailto:ayushichauhan913@gmail.com)
 <br /> 
 
